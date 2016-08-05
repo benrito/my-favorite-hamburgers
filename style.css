@@ -1,0 +1,25 @@
+.awesomered-bg {
+	background-color: #FF563C;
+	border: 10px solid blue;
+	opacity: .5;
+}
+
+.awesomered-bg:hover {
+	background-color: yellow;
+	opacity: 1;
+}
+
+.awesomered-text {
+	color: #FF563C;
+}
+
+.bitchinblue {
+	color: blue;
+}
+
+.thickborder {
+	border: 10px solid black;
+}
+.right {
+	text-align: right;
+}
